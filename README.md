@@ -1,2 +1,2 @@
 # Python
-Learning python and making new proyects 
+Learning python and making new projects 
